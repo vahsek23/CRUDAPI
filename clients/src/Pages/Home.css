@@ -1,0 +1,67 @@
+/* .table{
+    text-align: center;
+    margin: auto;
+    padding-top: 40%;
+    flex: auto;
+    flex-direction: column;
+    
+}
+.head{
+    padding: 50px;
+}
+.body{
+    background-color: rgb(236, 230, 230);
+}
+.btnedit{
+    background-color: aqua;
+} */
+.homes{
+    position: relative;
+    padding: 50px;
+    height: 10px;
+}
+.btn {
+    margin: 0px 10px 0px 10px;
+}
+
+.flex-container {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+}
+
+.btn2 {
+    background-color: rgb(96, 96, 99);
+    border-radius: 2px;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.card {
+
+    width: 30%;
+
+    display: flex;
+    Flex-direction: column;
+    border: 1px ☐red solid;
+    align-content: center;
+    margin: 0 auto;
+}
+
+.card-header {
+
+        height: 30%;
+        background: #5d6770;
+        color: white;
+        text-align: center;
+    }
+
+.card-header p {
+        font-size: 20px;
+
+    }
+.container{
+    padding: 4px 16px;
+}
